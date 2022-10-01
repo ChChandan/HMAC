@@ -2,7 +2,7 @@
 Hashed Message Authentication Code used to verify the integrity of the messages sent/received
 
 
-<h1>Objectives –</h1> 
+<h1>Objectives</h1> 
 <ol>
 <li>As the Hash Function, HMAC is also aimed to be one way, i.e, easy to generate output from input but complex the other way round. </li>
 <li>It aims at being less affected by collisions than the hash functions. </li>
